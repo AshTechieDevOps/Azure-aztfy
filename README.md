@@ -1,6 +1,6 @@
 ## Azure Terrafy
 
-A tool to bring your existing Azure resources under the management of Terraform.
+A tool to bring your existing Azure Resources under the Management of Terraform, Basically, "Reverse Terraforming which is not as such "Infrastructure as Code" but like "Coding Your Existing Azure Infrastructure" Back to your Terraform Configuration File and update/imporing State file.
 
 ## Goal
 
